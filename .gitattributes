@@ -1,2 +1,45 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Retirement Tax Planning</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Retirement Tax Planning</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#process">Process</a></li>
+            <li><a href="#fees">Fees</a></li>
+            <li><a href="#blog">Blog</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Welcome to Retirement Tax Planning! I am a holistic financial advisor specializing in tax planning for individuals age 55 and older. With over 20 years of experience in the financial industry, I am dedicated to helping retirees optimize their tax strategies to maximize their retirement income and achieve their financial goals.</p>
+        </section>
+        <section id="process">
+            <h2>Process</h2>
+            <p>My comprehensive process includes a thorough review of your financial situation, retirement goals, and tax situation. I work closely with you to develop a customized tax plan that aligns with your unique needs and circumstances. My approach focuses on minimizing tax liabilities, maximizing tax deductions, and optimizing retirement account distributions to help you make the most of your retirement funds.</p>
+        </section>
+        <section id="fees">
+            <h2>Fees</h2>
+            <p>I offer transparent and competitive fee structures tailored to your specific needs. As an independent financial advisor, I work on a fee-only basis, which means I do not receive any commissions or incentives from third-party products. This ensures that my advice is always in your best interest, and I am committed to providing unbiased recommendations that align with your financial goals.</p>
+        </section>
+        <section id="blog">
+            <h2>Blog</h2>
+            <p>Stay updated with the latest news, tips, and insights on retirement tax planning through my blog. I regularly share informative articles and resources to help you stay informed and make informed decisions about your retirement finances. Don't miss out on valuable information that can help you optimize your retirement tax strategies!</p>
+        </section>
+    </main>
+    <footer>
+        <p>Contact me for a complimentary consultation.</p>
+        <p>Phone: 123-456-7890 | Email: info@retirementtaxplanning.com</p>
+    </footer>
+</body>
+
+</html>
